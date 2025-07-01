@@ -1,10 +1,10 @@
-# AEDs-I-Pratica
+# ⚙️ AEDs-I-Pratica
 
 ## Professor 👨‍🏫
 
 Disciplina dada por Prof. Paulo Alexandre Bressan 
 
-## Atividades de programação 💻
+## Atividades de programação 2025/1 💻
 
 - Sistema de aprovação de empréstimo https://drive.google.com/file/d/1y9u3JvfEygMl3h7O5gKsGWxG3jNqWXYB/view?usp=classroom_web&authuser=2
   
